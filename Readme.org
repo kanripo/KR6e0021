@@ -1,0 +1,68 @@
+#-*- mode: org; -*-
+#+DATE: 2015-09-28 22:55:16.799266
+#+TITLE: 大方廣佛華嚴經疏鈔會本
+#+PROPERTY: CBETA_ID L133n1557
+#+PROPERTY: ID KR6e0021
+#+PROPERTY: SOURCE Qianlong Edition of the Canon Vol. 133, No. 1557
+#+PROPERTY: VOL 133
+#+PROPERTY: BASEEDITION L
+#+PROPERTY: WITNESS CBETA
+
+<pb:KR6e0021_L_000-0001a>¶
+
+[[file:KR6e0021_051.txt::0016a3][音釋¶]]
+[[file:KR6e0021_052.txt::0030a15][音釋]]
+[[file:KR6e0021_052.txt::0044a4][音釋¶]]
+[[file:KR6e0021_052.txt::0057a3][音釋¶]]
+[[file:KR6e0021_052.txt::0072a14][音釋]]
+[[file:KR6e0021_053.txt::053-0072b4][離世間品第三十八]]
+[[file:KR6e0021_053.txt::0097b3][音釋¶]]
+[[file:KR6e0021_053.txt::0111b15][音釋]]
+[[file:KR6e0021_054.txt::0123a2][音釋¶]]
+[[file:KR6e0021_054.txt::0137a12][音釋¶]]
+[[file:KR6e0021_055.txt::0157b4][音釋¶]]
+[[file:KR6e0021_056.txt::0183a7][音釋¶]]
+[[file:KR6e0021_057.txt::0198b2][音釋¶]]
+[[file:KR6e0021_057.txt::0212a5][音釋¶]]
+[[file:KR6e0021_058.txt::0224b8][音釋¶]]
+[[file:KR6e0021_058.txt::0232b8][音釋¶]]
+[[file:KR6e0021_058.txt::0252a5][音釋¶]]
+[[file:KR6e0021_059.txt::0266a15][音釋¶]]
+[[file:KR6e0021_059.txt::0282a13][音釋¶]]
+[[file:KR6e0021_060.txt::060-0283a4][入法界品第三十九]]
+[[file:KR6e0021_060.txt::0298b5][音釋¶]]
+[[file:KR6e0021_060.txt::0314a12][音釋¶]]
+[[file:KR6e0021_060.txt::0328b5][音釋¶]]
+[[file:KR6e0021_060.txt::0343b2][音釋¶]]
+[[file:KR6e0021_061.txt::0361a12][音釋¶]]
+[[file:KR6e0021_061.txt::0374a7][音釋¶]]
+[[file:KR6e0021_062.txt::0387a13][音釋¶]]
+[[file:KR6e0021_062.txt::0404b3][音釋¶]]
+[[file:KR6e0021_062.txt::0421a14][音釋¶]]
+[[file:KR6e0021_063.txt::0438a15][音釋¶]]
+[[file:KR6e0021_063.txt::0454b7][音釋¶]]
+[[file:KR6e0021_064.txt::0479a14][音釋¶]]
+[[file:KR6e0021_065.txt::0505a13][音釋¶]]
+[[file:KR6e0021_066.txt::0520a13][音釋¶]]
+[[file:KR6e0021_066.txt::0535b3][音釋¶]]
+[[file:KR6e0021_067.txt::0560b7][音釋¶]]
+[[file:KR6e0021_068.txt::0576a3][音釋¶]]
+[[file:KR6e0021_068.txt::0591b2][音釋¶]]
+[[file:KR6e0021_069.txt::0614a6][音釋¶]]
+[[file:KR6e0021_070.txt::0634b7][音釋¶]]
+[[file:KR6e0021_071.txt::0649b7][音釋¶]]
+[[file:KR6e0021_071.txt::0662b8][音釋¶]]
+[[file:KR6e0021_072.txt::0680b9][音釋¶]]
+[[file:KR6e0021_073.txt::0702a8][音釋¶]]
+[[file:KR6e0021_074.txt::0717a5][音釋¶]]
+[[file:KR6e0021_075.txt::0743b15][音釋¶]]
+[[file:KR6e0021_076.txt::0765a12][音釋¶]]
+[[file:KR6e0021_076.txt::0783a11][音釋¶]]
+[[file:KR6e0021_077.txt::0798a5][音釋¶]]
+[[file:KR6e0021_077.txt::0815a8][音釋¶]]
+[[file:KR6e0021_078.txt::0829b8][音釋¶]]
+[[file:KR6e0021_078.txt::0841a14][音釋¶]]
+[[file:KR6e0021_079.txt::0862a13][音釋¶]]
+[[file:KR6e0021_080.txt::0876b7][音釋¶]]
+[[file:KR6e0021_080.txt::0885b15][音釋¶]]
+[[file:KR6e0021_080.txt::0896b13][音釋¶]]
