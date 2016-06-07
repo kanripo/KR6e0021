@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:17.311137
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:09
 #+TITLE: 大方廣佛華嚴經疏鈔會本
 #+PROPERTY: CBETA_ID L130n1557
 #+PROPERTY: ID KR6e0021
 #+PROPERTY: SOURCE Qianlong Edition of the Canon Vol. 130, No. 1557
 #+PROPERTY: VOL 130
 #+PROPERTY: BASEEDITION L
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0021_L_009-0431b> 
 #+PROPERTY: JUAN 9
-
- 大方廣佛華嚴經䟽鈔會本第九　假五¶
+大方廣佛華嚴經䟽鈔會本第九　假五¶
 唐于闐國三藏沙門實叉難陀　譯¶
 唐清涼山大華嚴寺沙門澄觀撰述¶
 
@@ -258,7 +257,7 @@
 【此中最下方下所持之剎二十重中初一¶
 世界文即有七後一文八加純淨故中間¶
 唯三謂相去數量剎名佛號餘八海例然¶
-已辯二海。】¶
+巳辯二海。】¶
 
 「諸佛子此無盡光明輪香水海右旋。」¶
 
@@ -849,7 +848,7 @@
 ¶
 大方廣佛華嚴經䟽鈔會本第九¶
 
-音釋¶
+** 音釋¶
 
 慣習
 (慣古患切亦習也)。
